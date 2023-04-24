@@ -18,3 +18,18 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.header {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.info-span {
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 10px;
+}
+.countri-array {
+  font-size: 24px;
+  font-weight: 400;
+  margin-left: 10px;
+}
